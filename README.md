@@ -18,7 +18,7 @@ git clone https://github.com/ESX-Org/esx_weaponshop.git [esx]/esx_weaponshop
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_weaponshop/archive/master.zip
+- Download https://github.com/liam16361/esx_weaponshop/releases/tag/fivem
 - Put it in the `[esx]` directory
 
 ## Installation
